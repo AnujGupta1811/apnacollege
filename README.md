@@ -1,2 +1,4 @@
 # apnacollege
-this is my first reposittory
+this is my first reposittory.
+<br>
+Author - Anuj Gupta
